@@ -1,2 +1,6 @@
 streamlit
-math
+numpy
+pandas
+scipy
+matplotlib
+

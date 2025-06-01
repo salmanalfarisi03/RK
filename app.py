@@ -1,7 +1,7 @@
 import streamlit as st
 from metode import bisection, regulafasi, secant, newtonraphson, lelaran
 from persamaan_nirlanjar import fixed_point_dynamic
-import math
+
 
 st.title("🔍 Metode Numerik: Pencarian Akar")
 
